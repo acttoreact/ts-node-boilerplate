@@ -39,6 +39,7 @@
     "no-plusplus": "off",    
     "no-underscore-dangle": "off",
     "import/no-cycle": "off",
+    "import/extensions": "off",
     "@typescript-eslint/no-unused-vars": "error",
     "@typescript-eslint/adjacent-overload-signatures": "error",
     "@typescript-eslint/array-type": "error",

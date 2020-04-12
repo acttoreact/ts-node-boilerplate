@@ -8,14 +8,14 @@
   "scripts": {
     "build": "tsc",
     "test": "jest",
-    "test-dev": "NODE_ENV=development npx jest --watch",
+    "test-dev": "NODE_ENV=development npx jest --watchAll",
     "dev": "NODE_ENV=development ts-node-dev --debug --respawn --transpileOnly ./src/index.ts",
     "start": "node ./dist/index.js",
     "lint": "npx eslint --config ./.eslintrc src/**/*.ts"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/acttoreact/A2R.git"
+    "url": "git+https://github.com/BinPar/ts-node-boilerplate.git"
   },
   "keywords": [
     "ts-node-boilerplate",
