@@ -1,3 +1,3 @@
 # Node Boilerplate
 
-Node Boilerplate from BinPar TypeScript Projects
+Node Boilerplate for A2r TypeScript Projects
