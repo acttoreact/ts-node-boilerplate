@@ -32,7 +32,7 @@
     "watcher"
   ],
   "author": "Act to React (https://a2r.com/)",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "https://a2r.com/",
   "dependencies": {},
   "devDependencies": {
